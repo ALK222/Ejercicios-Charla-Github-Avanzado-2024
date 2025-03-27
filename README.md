@@ -14,7 +14,9 @@ Ejercicios a realizar en la charla "Github avanzado" del mes de la informática 
 
 5. Crear un repositorio cuyo nombre sea tu nombre de usuario y cambiar la descripción
 
-6. En este repositorio, crear un archivo _./docs/index.md_, poner cualquier cosa y lanzar github pages con raíz en _/docs_, añadiendo dentro el archivo \_config.yml con el siguiente contenido:
+6. Crea un nuevo repositiorio con el nombre (tu nombre de usuario).github.io
+
+7. En este repositorio, crear un archivo _./docs/index.md_, poner cualquier cosa y lanzar github pages con raíz en _/docs_, añadiendo dentro el archivo \_config.yml con el siguiente contenido:
 
 ```yaml
 lsi: false
